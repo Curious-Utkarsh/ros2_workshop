@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/utk/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/utk/ros2_ws/install/aruco_interfaces/include/**",
+        "/home/utk/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/utk/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/utk/colcon_ws/install/realsense_gazebo_plugin/include/**",
+        "/home/utk/colcon_ws/install/linkattacher_msgs/include/**",
+        "/home/utk/arduinobot_ws/install/arduinobot_msgs/include/**",
+        "/home/utk/arduinobot_ws/install/arduinobot_controller/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
